@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(54, 54, 54);
+}
+.menu{
+    background-color: rgb(54, 54, 54);
+    padding: 10px;
+    text-transform: uppercase;
+    justify-content:space-around;
+    display: flex;
+    color: rgb(204, 204, 204);
+    width: 50vw;
+}
+.link{
+    color: rgb(204, 204, 204);
+    text-decoration: none;
+}
